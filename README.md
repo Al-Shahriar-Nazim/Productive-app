@@ -7,7 +7,11 @@
 3.project Structre : Src (components,Pages,Routes)
 4.Navbar create
 
-<!-- step : 02 (project organization) -->
+<!-- step : 02 (Navbar) -->
 1.Navbar edit(Navlink---> react router)
 2.NavItem (Home,App,Installation), folder file create and router defination
-3.
+3.Linkable contibution redirect to github account and linkable logo click to redirect to home section
+
+
+<!-- step : 03 (footer) -->
+1.footer section  Done
