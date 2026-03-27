@@ -2,7 +2,7 @@ import React from "react";
 
 const StatsSection = () => {
   return (
-    <div className="bg-gradient-to-r from-purple-600 to-indigo-600 text-white py-12 ">
+    <div className="bg-gradient-to-r from-purple-600 to-indigo-600 text-white py-12 mb-10 ">
       {/* Title */}
       <h2 className="text-center text-2xl md:text-3xl font-semibold mb-10">
         Trusted By Millions, Built For You

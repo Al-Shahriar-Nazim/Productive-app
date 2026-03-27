@@ -20,3 +20,5 @@
 1.simple text (heading and paragrap) then clickable two button 
 2.bannar image add
 3.statsSection create folder and file
+4.trandings folder create > file :(heading and simple text)
+    =>json folder (public > tData.json)

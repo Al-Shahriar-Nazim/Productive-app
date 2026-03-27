@@ -1,10 +1,13 @@
 import React from "react";
 import realHero from "../../assets/realHero.png";
 import StatsSection from "../StatsSection/StatsSection";
+import Trandings from "../Trandings/Trandings";
 
-const Bannar = () => {
+const Bannar = ({data}) => {
+  // console.log(data)
   return (
     <div className="mt-8 text-center">
+
       <div className="container mx-auto">
         <h3 className="text-6xl  font-bold">
           We Build <br />
@@ -80,6 +83,7 @@ const Bannar = () => {
       </div>
 
       <StatsSection></StatsSection>
+      <Trandings data={data}></Trandings>
     </div>
   );
 };
