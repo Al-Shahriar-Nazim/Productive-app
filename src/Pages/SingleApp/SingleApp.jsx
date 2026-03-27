@@ -1,8 +1,7 @@
 import React from "react";
 
-const Tranding = ({ singleTrand }) => {
-//   console.log(singleTrand);
-const{description,title,image,ratingAvg,downloads}=singleTrand
+const SingleApp = ({ singleData }) => {
+  const { description, title, image, ratingAvg, downloads } = singleData;
   return (
     <div
       className=" bg-white rounded-2xl p-3 shadow-md 
@@ -20,7 +19,7 @@ const{description,title,image,ratingAvg,downloads}=singleTrand
 
       {/* Title */}
       <h2 className="text-sm text-left font-medium mb-2 transition-colors duration-300 hover:text-green-600">
-    {title} : {description}
+        {title} : {description}
       </h2>
 
       {/* Bottom Info */}
@@ -39,4 +38,4 @@ const{description,title,image,ratingAvg,downloads}=singleTrand
   );
 };
 
-export default Tranding;
+export default SingleApp;

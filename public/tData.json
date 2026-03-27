@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://i.ibb.co.com/CprTFTLX/imgone.jpg",
     "title": "ChatMaster",
     "companyName": "TechSoft",
     "description": "A smart chatting app with AI features.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://i.ibb.co.com/v4R9S6LL/imgtwo.jpg",
     "title": "PhotoSnap",
     "companyName": "Pixel Inc",
     "description": "Capture and edit photos like a pro.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://i.ibb.co.com/Qw3sq5D/imgthree.jpg",
     "title": "FitLife",
     "companyName": "HealthCorp",
     "description": "Track your fitness and stay healthy.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://i.ibb.co.com/ycg951Xm/imagefour.png",
     "title": "EduLearn",
     "companyName": "LearnHub",
     "description": "Online learning platform for students.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://i.ibb.co.com/PZ595Lb5/imagefive.png",
     "title": "MusicWave",
     "companyName": "SoundX",
     "description": "Stream unlimited music anytime.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://i.ibb.co.com/F4nKr7bg/imagesix-jpg.png",
     "title": "GameZone",
     "companyName": "PlayWorld",
     "description": "Play exciting games with friends.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://i.ibb.co.com/ymZ30Qty/imageseven.jpg",
     "title": "TravelMate",
     "companyName": "Explore Ltd",
     "description": "Plan your trips easily.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://i.ibb.co.com/9Hb0kZgq/image-Eight.jpg",
     "title": "NoteKeeper",
     "companyName": "Productive Inc",
     "description": "Organize your notes efficiently.",
