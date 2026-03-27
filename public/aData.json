@@ -146,7 +146,7 @@
 
   {
     "id": 9,
-    "image": "https://source.unsplash.com/200x300/?app,chat",
+    "image": "https://i.ibb.co.com/C32xz62G/imgnine.png",
     "title": "QuickChat",
     "companyName": "Connectify",
     "description": "Fast and secure messaging platform.",
@@ -164,7 +164,7 @@
   },
   {
     "id": 10,
-    "image": "https://source.unsplash.com/200x300/?camera,photo",
+    "image": "https://i.ibb.co.com/dsVjFtmv/eleven.png",
     "title": "SnapEdit",
     "companyName": "PhotoLab",
     "description": "Advanced photo editing tools.",
@@ -182,7 +182,7 @@
   },
   {
     "id": 11,
-    "image": "https://source.unsplash.com/200x300/?fitness,app",
+    "image": "https://i.ibb.co.com/0x0778q/ten.png",
     "title": "HealthTrack",
     "companyName": "FitTech",
     "description": "Monitor your health daily.",
@@ -200,7 +200,7 @@
   },
   {
     "id": 12,
-    "image": "https://source.unsplash.com/200x300/?education,study",
+    "image": "https://i.ibb.co.com/4RdmLQs6/twelave.jpg",
     "title": "StudyPro",
     "companyName": "EduTech",
     "description": "Smart learning companion.",
@@ -218,7 +218,7 @@
   },
   {
     "id": 13,
-    "image": "https://source.unsplash.com/200x300/?music,app",
+    "image": "https://i.ibb.co.com/5WVkP2RW/thirty.jpg",
     "title": "BeatStream",
     "companyName": "AudioMax",
     "description": "Unlimited music streaming.",
@@ -236,7 +236,7 @@
   },
   {
     "id": 14,
-    "image": "https://source.unsplash.com/200x300/?gaming,app",
+    "image": "https://i.ibb.co.com/s8Pk4kT/fourty.jpg",
     "title": "PlayArena",
     "companyName": "GameHub",
     "description": "Enjoy multiplayer games online.",
@@ -254,7 +254,7 @@
   },
   {
     "id": 15,
-    "image": "https://source.unsplash.com/200x300/?travel,app",
+    "image": "https://i.ibb.co.com/5WKmK7NC/15.jpg",
     "title": "TripPlanner",
     "companyName": "WanderTech",
     "description": "Plan trips with ease.",
@@ -272,7 +272,7 @@
   },
   {
     "id": 16,
-    "image": "https://source.unsplash.com/200x300/?notes,app",
+    "image": "https://i.ibb.co.com/jvNjf7rk/16.jpg",
     "title": "NotePlus",
     "companyName": "NoteSoft",
     "description": "Organize notes quickly.",
@@ -290,7 +290,7 @@
   },
   {
     "id": 17,
-    "image": "https://source.unsplash.com/200x300/?shopping,app",
+    "image": "https://i.ibb.co.com/fVQSt2Js/17.jpg",
     "title": "ShopEasy",
     "companyName": "MarketPro",
     "description": "Easy online shopping app.",
@@ -308,7 +308,7 @@
   },
   {
     "id": 18,
-    "image": "https://source.unsplash.com/200x300/?weather,app",
+    "image": "https://i.ibb.co.com/PsCfKqsV/18.jpg",
     "title": "WeatherNow",
     "companyName": "SkyTech",
     "description": "Accurate weather updates.",
@@ -326,7 +326,7 @@
   },
   {
     "id": 19,
-    "image": "https://source.unsplash.com/200x300/?finance,app",
+    "image": "https://i.ibb.co.com/Vcqy3k7B/19.png",
     "title": "MoneyTrack",
     "companyName": "FinCorp",
     "description": "Track expenses and savings.",
@@ -344,7 +344,7 @@
   },
   {
     "id": 20,
-    "image": "https://source.unsplash.com/200x300/?news,app",
+    "image": "https://i.ibb.co.com/35gQ34mG/20.jpg",
     "title": "DailyNews",
     "companyName": "InfoWorld",
     "description": "Stay updated with latest news.",
