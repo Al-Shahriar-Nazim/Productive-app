@@ -15,3 +15,8 @@
 
 <!-- step : 03 (footer) -->
 1.footer section  Done
+
+<!-- step : 4 (bannar section to home page connecting) -->
+1.simple text (heading and paragrap) then clickable two button 
+2.bannar image add
+3.statsSection create folder and file
