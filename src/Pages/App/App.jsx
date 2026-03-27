@@ -1,9 +1,9 @@
-import React from "react";
+import React, { Suspense } from "react";
 import { useLoaderData } from "react-router";
 import SingleApp from "../SingleApp/SingleApp";
 
 const App = () => {
-  const data = useLoaderData()
+  const data = useLoaderData();
   // console.log(data)
   return (
     <div className="container mx-auto mt-10 mb-3">
@@ -34,9 +34,13 @@ const App = () => {
         </label>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-8 my-8">
-        {
-          data.map(singleData =><SingleApp key={singleData.id}  singleData={singleData}></SingleApp>)
-        }
+        <Suspense
+          fallback={<span className="loading loading-bars loading-xl"></span>}
+        >
+          {data.map((singleData) => (
+            <SingleApp key={singleData.id} singleData={singleData}></SingleApp>
+          ))}
+        </Suspense>
       </div>
     </div>
   );

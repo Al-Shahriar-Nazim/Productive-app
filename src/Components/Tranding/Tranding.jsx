@@ -1,4 +1,5 @@
 import React from "react";
+import { MdDownload } from "react-icons/md";
 
 const Tranding = ({ singleTrand }) => {
 //   console.log(singleTrand);
@@ -26,8 +27,8 @@ const{description,title,image,ratingAvg,downloads}=singleTrand
       {/* Bottom Info */}
       <div className="flex justify-between items-center text-xs">
         {/* Downloads */}
-        <span className="bg-green-100 text-green-600 px-2 py-1 rounded-md transition hover:scale-105">
-          🌿 {downloads}
+        <span className="flex items-center gap-3 bg-green-100 text-green-600 px-2 py-1 rounded-md transition hover:scale-105">
+        <MdDownload /> {downloads}
         </span>
 
         {/* Rating */}

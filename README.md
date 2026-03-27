@@ -28,3 +28,9 @@
 <!-- step : 5 App data seciton -->
 1.app folder create
 2.json data (public > aData.json)
+
+<!-- step : 6 App Details seciton  -->
+1.AppDetails folder and file create
+2.route defination
+3.all card wraping to link
+
